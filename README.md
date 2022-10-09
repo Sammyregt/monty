@@ -108,7 +108,7 @@ When there is no errors, `monty` returns `0`. Otherwise, returns `1`
 
 ## Authors
 <details>
-    <summary>Theophilus Ifeoluwa</summary>
+    <summary>Adeoye Samuel</summary>
     <ul>
     <li><a href="https://github.com/Sammyregt">Github</a></li>
     <li><a href="https://www.linkedin.com/in/adeoye-samuel">Linkedln</a></li>
